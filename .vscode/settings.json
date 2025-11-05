@@ -1,5 +1,8 @@
 {
     "files.associations": {
-        "ksu_trace.h": "c"
+        "ksu_trace.h": "c",
+        "text_encoding": "c",
+        "typeinfo": "c",
+        "system_error": "c"
     }
 }

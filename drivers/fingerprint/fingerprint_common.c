@@ -1,6 +1,8 @@
 #include "fingerprint_common.h"
 
+#ifndef CONFIG_SENSORS_ET5XX
 struct debug_logger *g_logger;
+#endif
 
 void set_sensor_type(const int type_value, int *result)
 {

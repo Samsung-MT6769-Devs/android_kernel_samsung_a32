@@ -5,7 +5,7 @@ SUBLEVEL = 356
 EXTRAVERSION = -openela-vigus-
 NAME = Petit Gorille
 
-# special thanks to vigus and Samsung-MT6769-Devs
+# special thanks to vigus, realahnet and Samsung-MT6769-Devs
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
 # More info can be located in ./README

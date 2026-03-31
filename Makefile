@@ -2,7 +2,7 @@
 VERSION = 4
 PATCHLEVEL = 14
 SUBLEVEL = 356
-EXTRAVERSION = -openela-itsmeleju-
+EXTRAVERSION = -openela-
 NAME = Petit Gorille
 
 # special thanks to vigus, realahnet and Samsung-MT6769-Devs
